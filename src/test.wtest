@@ -1,0 +1,6 @@
+
+test "test del barrio" {
+
+	assert.that(true)
+
+}
